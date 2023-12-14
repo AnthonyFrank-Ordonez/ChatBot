@@ -1,2 +1,1 @@
-ChatBot
--This README is still in development as well as in the other repositories
+This README is still in development as well as in the other repositories
