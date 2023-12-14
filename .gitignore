@@ -1,0 +1,10 @@
+# Ignore all temp  folder
+temp/
+
+# ignore .log files
+*.log
+
+# ignore __pycache__ folder
+__pycache__/
+
+
